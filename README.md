@@ -1,4 +1,4 @@
-<img src = "nahida-nahida-genshin.gif" width = "325px" align = "right">
+<img src = "KurumiPFP.jpg" width = "325px" align = "right">
 
 # 💚Welcome to my Profile!
 
