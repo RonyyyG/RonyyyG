@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ronyyy! `ronald-gabriel`
+# Me chamo Ronyyy! `Ronald Gabriel`
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ca1a34&height=150&section=header&text=Ronyyy&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
