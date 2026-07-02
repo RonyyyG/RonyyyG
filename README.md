@@ -57,6 +57,9 @@ Meus Hobbies são em sua maioria jogos de cartas, como Pokemon TCG, ou Yu-Gi-Oh!
   <img src="https://img.shields.io/badge/Blue_Lock-🔥-c0102a?style=flat-square" />
   <img src="https://img.shields.io/badge/Terraria-🌳-5b8731?style=flat-square" />
   <img src="https://img.shields.io/badge/Genshin_Impact-Top_1%25_Nahida-4a9c5d?style=flat-square&logo=hoyoverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Date_A_Live-🔮-702963?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rascal_Does_Not_Dream-🐰-d4a373?style=flat-square" />
+  <img src="https://img.shields.io/badge/My_Deer_Friend_Nokotan-🦌-8b5a2b?style=flat-square" />
 </p>
 
 ---
