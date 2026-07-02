@@ -83,8 +83,8 @@ Meus Hobbies são em sua maioria jogos de cartas, como Pokemon TCG, ou Yu-Gi-Oh!
 ## 📊 Estatísticas Dinâmicas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Ronyyyg](https://github.com/RonyyyG)i&show_icons=true&theme=crimson&count_private=true&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=crimson&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronyyyg&show_icons=true&theme=crimson&count_private=true&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronyyyg&layout=compact&theme=crimson&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
