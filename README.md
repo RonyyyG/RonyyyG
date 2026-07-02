@@ -79,12 +79,10 @@ Meus Hobbies são em sua maioria jogos de cartas, como Pokemon TCG, ou Yu-Gi-Oh!
 > * Botão especial de invocação "Super Trunfo" para puxar o elenco lendário do time PDL.
 
 ---
-## 📊 Estatísticas Dinâmicas do GitHub
+## 📊 Conquistas e Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-yurizn.vercel.app/api?username=Ronyyyg&show_icons=true&theme=crimson&count_private=true&hide_border=true" height="180em" alt="Status do GitHub" />
-  
-  <img src="https://github-readme-stats-yurizn.vercel.app/api/top-langs/?username=Ronyyyg&layout=compact&theme=crimson&hide_border=true" height="180em" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ronyyyg&theme=crimson&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
 </p>
 
 <p align="center">
