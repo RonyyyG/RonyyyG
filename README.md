@@ -98,4 +98,4 @@ Meus Hobbies são em sua maioria jogos de cartas, como Pokemon TCG, ou Yu-Gi-Oh!
 </p>
 
 <br>
-<p align="center"><i>"Correndo na velocidade máxima em direção ao próximo nível."</i></p>
+<p align="center"><i>"Se você começar a se preocupar com o que 'pode' acontecer, então seus sonhos nunca se realizarão."</i></p>
