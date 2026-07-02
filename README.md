@@ -78,17 +78,16 @@ Meus Hobbies são em sua maioria jogos de cartas, como Pokemon TCG, ou Yu-Gi-Oh!
 > * Lógica procedural de cálculo de gols, faltas e interrupções por VAR baseada em diferença de força estatística ($OVR$).
 > * Botão especial de invocação "Super Trunfo" para puxar o elenco lendário do time PDL.
 
----
-## 📊 Conquistas e Estatísticas
+## 📊 Estatísticas Dinâmicas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ronyyyg&theme=crimson&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronyyyg&theme=crimson&hide_border=true" height="190em" alt="Streak de commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronyyyg&theme=crimson&hide_border=true" height="180em" alt="Streak de commits" />
+  <img src="https://img.shields.io/badge/Total_Contribuições-57-ca1a34?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main_Stack-JavaScript_/_Python-111111?style=for-the-badge" />
 </p>
----
 
 ## 🤝 Conecte-se Comigo
 
