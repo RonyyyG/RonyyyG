@@ -11,7 +11,7 @@
 
 ---
 
-## 🌹 "Não sei por quanto tempo minha perna vai aguentar, mas quero acreditar nessa nova versão de mim. Vou continuar correndo até que minha perna não aguente mais." 
+## 🌹 "Se você começar a se preocupar com o que 'pode' acontecer, então seus sonhos nunca se realizarão." 
 > *— Hyoma Chigiri (Blue Lock)*
 
 ---
@@ -99,4 +99,4 @@ Meus Hobbies são em sua maioria jogos de cartas, como Pokemon TCG, ou Yu-Gi-Oh!
 </p>
 
 <br>
-<p align="center"><i>"Se você começar a se preocupar com o que 'pode' acontecer, então seus sonhos nunca se realizarão."</i></p>
+<p align="center"><i>"Não sei por quanto tempo minha perna vai aguentar, mas quero acreditar nessa nova versão de mim. Vou continuar correndo até que minha perna não aguente mais."</i></p>
