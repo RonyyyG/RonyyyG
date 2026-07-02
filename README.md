@@ -19,10 +19,10 @@
 ### 🔮 Sobre Mim & Objetivos
 Sou um desenvolvedor focado em evolução constante. Meu objetivo atual é absorver o máximo de conhecimento prático criando aplicações robustas, expandindo meu repertório técnico e desenvolvendo projetos sólidos para **adentrar com força no mercado de trabalho**. 
 
-Quando não estou codando, provavelmente estou quebrando o meta em jogos de cartas ou atingindo o topo de alguma leaderboard competitiva.
+Meus Hobbies são em sua maioria jogos de cartas, como Pokemon TCG, ou Yu-Gi-Oh!.
 
 * 🎯 **Foco Atual:** Dominar lógica avançada e expandir horizontes com novas linguagens.
-* ⚡ **Carioca/BR:** Antigo Top 100 Zac BR (League of Legends).
+* ⚡ **SGA/RN:** Antigo Top 100 Zac BR (League of Legends).
 * 🌿 **Genshin:** Ex-Top 1% Nahida Global.
 
 ---
